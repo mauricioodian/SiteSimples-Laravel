@@ -33,9 +33,6 @@
                     <a class="nav-link" href="#">Link 3</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link disabled" href="#">Desabilitado</a>
-                </li>
-                <li class="nav-item">
                     <button type="button" class="btn btn-primary">clique aqui</button>
                 </li>
             </ul>
@@ -63,8 +60,6 @@
 
     </main>
 
-
-
     <footer class="py-3 my-4">
         <ul class="nav justify-content-center border-bottom pb-3 mb-3">
             <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Home</a></li>
@@ -72,7 +67,8 @@
             <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Link 2</a></li>
             <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Link 3</a></li>
         </ul>
-        <p class="text-center text-body-secondary">&copy; 2023 Company, Inc</p>
+        <p class="text-center text-body-secondary">Este é um site simples de exemplo que utiliza Laravel com &copy;Bootstrap.</p>
+        <p class="text-center text-body-secondary">Customize seu próprio site.</p>
     </footer>
 
 </body>
