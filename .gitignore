@@ -29,3 +29,6 @@ yarn-error.log
 
 # Ignora pasta .github de workflows
 .github
+
+# Ignora composer.lock
+composer.lock
